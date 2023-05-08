@@ -60,7 +60,7 @@ const Dribbble = () => {
                 </div>
                 <div style={{ display: "flex", justifyContent: "space-between", marginTop: "50px" }}>
                     <h3 style={{ marginLeft: "30px" }}>More by One Week Wonders</h3>
-                    <a style={{ textDecoration: "none", color: "deeppink" }} href="">View Products</a>
+                    <a style={{ textDecoration: "none", color: "deeppink" }} href="http://localhost:3000/products">View Products</a>
                 </div>
 
                 <div style={{ display: "flex", justifyContent: "space-between", margin: "20px" }}>
