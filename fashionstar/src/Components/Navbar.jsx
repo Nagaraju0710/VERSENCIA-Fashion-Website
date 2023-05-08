@@ -9,7 +9,8 @@ return (
 <Link style={{textDecoration: 'none',paddingLeft:"50px"}} to="/findwork">Find Work</Link>
 <Link style={{textDecoration: 'none',paddingLeft:"50px"}} to="/learndesign">Learn Design</Link>
 <Link style={{textDecoration: 'none',paddingLeft:"50px"}} to="/gopro">Go Pro</Link>
-<Link style={{textDecoration: 'none',paddingLeft:"50px"}} to="/hire">Hire Designers</Link>
+<Link style={{textDecoration: 'none',paddingLeft:"50px"}} to="/hire">Hire </Link>
+<Link style={{textDecoration: 'none'}} to="/products">Products</Link>
 <Link style={{textDecoration: 'none',marginLeft:"600px",background:"deeppink",color:"white",fontSize:"20px"}} to="/signup">Sign Up</Link>
 </div>
 
