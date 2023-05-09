@@ -5,7 +5,7 @@ function Inspiration(){
   return (
     <div>
         
-      <h1>product</h1>
+      <h1></h1>
     </div>
   );
 };
